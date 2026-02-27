@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+dataset.csv
+model.pkl
+face_landmarker.task
